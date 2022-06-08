@@ -1,0 +1,10 @@
+{
+  "name": "myAlarm",
+  "displayName": "myAlarm",
+  "android": {
+    "package": "com.myAlarm"
+  },
+  "ios": {
+    "bundleIdentifier": "com.myAlarm"
+  }
+}
